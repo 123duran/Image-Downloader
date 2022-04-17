@@ -33,7 +33,7 @@ $ pip --version
 ### Installing project dependencies:
 All the requirements are in requirements.txt.
 ```sh
-$ pip install requirement.txt
+$ pip install requirements.txt
 ```
 # Setup
 
