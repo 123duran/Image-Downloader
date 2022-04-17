@@ -160,3 +160,4 @@ cython_debug/
 /client_secrets.json
 /client_secret*
 storage.json
+settings.yml
