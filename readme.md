@@ -1,19 +1,14 @@
 
-# Image Crawler
-
-  
-
+# Image Downloader
+ 
 # Objective
 
-The objective of this crawler is to scrap images from a website (wich we redacted for security reasons) and save all the image files in two places:
-
-  
+The objective of this crawler is to scrap images from a website (wich we redacted for security reasons) and save all the image files in two places:  
 
 - A local folder => ./img/content-name/ directory
 
 - A Google Drive folder=> ./content-name/
-
-  
+ 
 
 # Installing requirements
 
