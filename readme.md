@@ -24,7 +24,7 @@ ou
 $ pip --version
 All the requirements are in requirements.txt file.
 ```
-### Installing another project dependencies:
+### Installing project dependencies:
  ```sh
 $ pip install requirement.txt
  ```
