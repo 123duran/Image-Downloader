@@ -1,11 +1,9 @@
 from __future__ import print_function
 from fileinput import filename
-
 from googleapiclient import discovery
 from httplib2 import Http
 from oauth2client import file, client, tools
 from googleapiclient.http import MediaFileUpload
-
 
 def get_drive():
     SCOPES = 'https://www.googleapis.com/auth/drive'
