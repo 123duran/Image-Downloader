@@ -39,5 +39,3 @@ def upload_photo(path, file_name ,parent_folder):
                                         media_body=media,
                                         fields='id').execute()
     return file.get('id')
-
-
